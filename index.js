@@ -6,7 +6,7 @@ var username = prompt("Please enter your name");
 var car = new Array("BMW", "Sabb", "Maratia");
 console.log(username);
 
-if(username==="Husky","husky","Husky-webdev","husky-webdev","webdev" ) {
+if(username==="Husky") {
 
     document.write("<h1>Hello " + username + " You won " + car[0] + "!</h1>");
 
