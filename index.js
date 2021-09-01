@@ -9,7 +9,7 @@ console.log(username);
 if(username==="Husky") {
 
     document.write("<h1>Hello " + username + " You won a " + car[0] + "!</h1>");
-    document.write("<img src=\"Images/BMW.bmp\" alt=\"Husky-webdev\'s logo\" height=\'200px\' width=\'200px\'> ");
+    document.write("<img src=\"Images/BMW.bmp\" alt=\"Husky-webdev\'s logo\" height=\'100px\' width=\'100px\'> ");
 
 }
 else if (username==="Husky-webdev") {
