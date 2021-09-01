@@ -16,7 +16,7 @@ else if (username==="Husky-webdev") {
 
 }
 
-else if (username==="preston") {
+else if (username==="Preston") {
     document.write("<h1>Hello " + username + " You won a " + car[2] + "!</h1>");
 
 }
