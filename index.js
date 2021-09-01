@@ -23,10 +23,10 @@ else if (username==="preston") {
 
 
 
-else {
+/*else {
     document.write("<h1>Hello " + username + "How are you" "!</h1>"+ "<img src="Images/jlumycg9.bmp" alt="Husky-webdev's logo" height="200px" width="200px">");
 
-}
+}*/
 
 
 /*document.write("<h1>Hello " + username + "!</h1>");*/
