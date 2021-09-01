@@ -22,7 +22,7 @@ else if (username==="Preston") {
 }
 
 else {
-    document.write("<h1>Hello " + username + "<img src="Images/jlumycg9.bmp" alt="Husky-webdev's logo">);
+    document.write("<h1>Hello " + username + "<img src="Images/jlumycg9.bmp" alt="Husky-webdev's logo">");
 
 }
 
